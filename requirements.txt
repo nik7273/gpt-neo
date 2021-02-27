@@ -5,7 +5,6 @@ mesh-tensorflow
 numpy
 oauth2client
 absl-py
-ortools
 pytest
 sacred
 tensorflow
@@ -16,3 +15,4 @@ tpunicorn
 ftfy
 sacred
 pymongo
+ortools
